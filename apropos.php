@@ -17,7 +17,7 @@
 
         <div class="container_card">
             <img class="container_cards_img" src="<?php echo $recette['image'] ?>" alt="photo des differentes recettes preparer chez les Délices Maison" />
-            <h2> <?= $recette["titre"] ?></h2>
+            <h2 class="h2_cliquable"> <?= $recette["titre"] ?></h2>
             <h3> <?= $recette["temps"] ?></h3>
             <h4> <?= $recette["difficulte"] ?></h4>
             <h5> Ingrédients :</h5>

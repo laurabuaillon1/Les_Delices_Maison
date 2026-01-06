@@ -44,6 +44,10 @@ h2 {
     text-align: center;
 }
 
+.h2_cliquable:hover{
+    color: var(--bs-floral-white);
+}
+
 h3,
 h4,
 h5
