@@ -2,7 +2,7 @@
 
 
 <h1>Bienvenue sur les Délices Maison</h1>
-<img class="image_page_accueil" src="./images/Cote-a-los-de-boeuf-grillee-a-la-perfection-accompagnee-dune-sauce-bearnaise-maison.png" alt="image viande sur les délices maison" width="500">
+<img class="image_page_accueil" src="./images/Cote_de_boeuf.png" alt="image viande sur les délices maison" width="500">
 <div class="container_presentation">
     <div>
         <h2>Présentation</h2>

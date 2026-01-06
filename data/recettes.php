@@ -3,6 +3,7 @@
 
 $recettes = [
     [
+        'image' => './images/pate_carbonara.jpg',
         'titre' => 'Spaghetti à la carbonara',
         'temps' => '25 minutes',
         'difficulte' => 'Facile',
@@ -16,6 +17,7 @@ $recettes = [
         ]
     ],
     [
+        'image' => './images/poulet_roti_citron.jpg',
         'titre' => 'Poulet rôti au citron',
         'temps' => '1 heure 15 minutes',
         'difficulte' => 'Moyen',
@@ -29,6 +31,7 @@ $recettes = [
         ]
     ],
     [
+        'image' => './images/tarte_aux_pommes.jpg',
         'titre' => 'Tarte aux pommes classique',
         'temps' => '50 minutes',
         'difficulte' => 'Facile',
@@ -41,6 +44,7 @@ $recettes = [
         ]
     ],
     [
+        'image' => './images/risotto_champignion.jpg',
         'titre' => 'Risotto aux champignons',
         'temps' => '40 minutes',
         'difficulte' => 'Difficile',
