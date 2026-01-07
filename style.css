@@ -166,6 +166,9 @@ a {
     border-radius: 16px;
 }
 
+ul li {
+    list-style: none;
+}
 
 /*********************/
 /***CARD RECETTE****/

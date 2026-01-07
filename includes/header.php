@@ -9,6 +9,6 @@
 <body>
     
 <header>
-<?php include './includes/menu.php';?>
+<?php require_once './includes/menu.php';?>
 </header>
 <main>
