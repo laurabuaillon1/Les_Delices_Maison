@@ -10,3 +10,4 @@
    <?php afficherRecettes($recettes) ?>
 </div>
 <?php include './includes/footer.php' ?>
+
