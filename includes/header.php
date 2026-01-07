@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Les délices Maison</title>
-    <script src="/LES_DELICES_MAISON/fonctions/script.js" defer></script>
     <link rel="stylesheet" href="style.css"/>
 </head>
 <body>

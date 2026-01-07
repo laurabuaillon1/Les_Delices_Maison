@@ -9,5 +9,7 @@
 <div class="container_cards_recette">
    <?php afficherRecettes($recettes) ?>
 </div>
+
+
 <?php include './includes/footer.php' ?>
 
